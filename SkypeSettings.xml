@@ -1,0 +1,52 @@
+<SkypeSettings>
+  <AutoScreenShare>1</AutoScreenShare>
+  <HideMeetingName>0</HideMeetingName>
+  <AutoExitMeetingEnabled>true</AutoExitMeetingEnabled>
+  <AudioRenderDefaultDeviceVolume>70</AudioRenderDefaultDeviceVolume>
+  <AudioRenderCommunicationDeviceVolume>30</AudioRenderCommunicationDeviceVolume>
+  <UserAccount>
+    <SkypeSignInAddress>username@la-francaise.com</SkypeSignInAddress>
+    <ExchangeAddress>username@la-francaise.com</ExchangeAddress>
+    <DomainUsername>domain\username</DomainUsername>
+    <Password>Password</Password>
+    <ConfigureDomain>domain1, domain2</ConfigureDomain>
+    <ModernAuthEnabled>true</ModernAuthEnabled>
+  </UserAccount>
+  <TeamsMeetingsEnabled>true</TeamsMeetingsEnabled>
+  <SfbMeetingEnabled>false</SfbMeetingEnabled>
+  <IsTeamsDefaultClient>true</IsTeamsDefaultClient>
+  <WebExMeetingsEnabled>false</WebExMeetingsEnabled>
+  <ZoomMeetingsEnabled>false</ZoomMeetingsEnabled>
+  <UseCustomInfoForThirdPartyMeetings>false</UseCustomInfoForThirdPartyMeetings>
+  <CustomDisplayNameForThirdPartyMeetings>guestname</CustomDisplayNameForThirdPartyMeetings>
+  <CustomDisplayEmailForThirdPartyMeetings>guest@microsoft.com</CustomDisplayEmailForThirdPartyMeetings>
+  <BluetoothAdvertisementEnabled>true</BluetoothAdvertisementEnabled>
+  <AutoAcceptProximateMeetingInvitations>true</AutoAcceptProximateMeetingInvitations>
+  <CortanaWakewordEnabled>false</CortanaWakewordEnabled>
+  <DualScreenMode>0</DualScreenMode>
+  <DuplicateIngestDefault>true</DuplicateIngestDefault>
+  <DisableTeamsAudioSharing>true</DisableTeamsAudioSharing>
+  <FrontRowEnabled>true</FrontRowEnabled>
+  <DefaultFoRExperience>0</DefaultFoRExperience>
+  <SendLogs>
+    <EmailAddressForLogsAndFeedback>eamouzou@la-francaise.com</EmailAddressForLogsAndFeedback>
+    <SendLogsAndFeedback>True</SendLogsAndFeedback>
+  </SendLogs>
+  <Devices>
+    <MicrophoneForCommunication>Interphone avec annulation d'écho (Logitech MeetUp Speakerphone)</MicrophoneForCommunication>
+    <SpeakerForCommunication>Interphone avec annulation d'écho (Logitech MeetUp Speakerphone)</SpeakerForCommunication>
+    <DefaultSpeaker>Interphone avec annulation d'écho (Logitech MeetUp Speakerphone)</DefaultSpeaker>
+    <ContentCameraId>Interphone avec annulation d'écho (Logitech MeetUp Speakerphone)</ContentCameraId>
+    <ContentCameraEnhancement>true</ContentCameraEnhancement>
+    <ContentCameraInverted>false</ContentCameraInverted>
+  </Devices>
+  <Theming>
+       <ThemeName>Default</ThemeName>
+       <CustomThemeImageUrl>file name</CustomThemeImageUrl>
+       <CustomThemeColor>
+            <RedComponent>100</RedComponent>
+            <GreenComponent>100</GreenComponent>
+            <BlueComponent>100</BlueComponent>
+       </CustomThemeColor>
+  </Theming>
+</SkypeSettings>
